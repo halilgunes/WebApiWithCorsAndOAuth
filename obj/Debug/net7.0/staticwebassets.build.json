@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8YooqiZz2zqZNI82Kj4w/5NLmyyAAWCbjIdTDpx1NtE=",
+  "Source": "PublicPersonelDataApi",
+  "BasePath": "_content/PublicPersonelDataApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
